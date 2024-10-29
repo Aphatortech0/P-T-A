@@ -22,7 +22,7 @@ Make sure you have Python 3.9 and PIP installed.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Aphatortech0/P-T-A.git]
+   git clone [https://github.com/Aphatortech0/P-T-A.git](https://github.com/Aphatortech0/P-T-A)
    ```
    ```bash
    cd Pitchtalk-BOT
