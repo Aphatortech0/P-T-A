@@ -2,7 +2,7 @@
 # Pitchtalk BOT
 Pitchtalk BOT
 
-Register Here: [Pitchtalk](https://t.me/pitchtalk_bot/app?startapp=3dbacc)
+Register Here: [Pitchtalk](https://t.me/pitchtalk_bot/app?startapp=56f9e6)
 
 ## Features
 
@@ -22,7 +22,7 @@ Make sure you have Python 3.9 and PIP installed.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/vonssy/Pitchtalk-BOT.git
+   git clone [https://github.com/Aphatortech0/P-T-A.git]
    ```
    ```bash
    cd Pitchtalk-BOT
