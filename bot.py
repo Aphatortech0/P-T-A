@@ -42,9 +42,13 @@ class PitchTalk:
 def welcome(self):
     print(
         f"""
-        {Fore.GREEN + Style.BRIGHT}CryptoVault - Aphator
+    {Fore.GREEN + Style.BRIGHT}Auto Claim {Fore.BLUE + Style.BRIGHT}Pitch Talk - BOT
+        """
+        f"""
+    {Fore.GREEN + Style.BRIGHT}CryptoVault
         """
     )
+
 
 
     def format_seconds(self, seconds):
